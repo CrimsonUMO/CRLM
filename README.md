@@ -4,7 +4,7 @@ A package for universal pathological feature extraction.
 
 ## Environment
 
-本脚本是基于tiatoolbox框架的延伸，你可以下载该仓库并使用yml文件创建环境。
+This script is an extension based on the TIAToolbox framework. You can download the repository and create the environment using the provided .yml file.
 
 ```bash
 git clone https://github.com/CrimsonUMO/CRLM.git
@@ -65,3 +65,4 @@ This project relies on multiple open-source libraries, which may have different 
 - Other dependencies (such as NumPy, Pandas, OpenCV, etc.) are licensed under a permissive license (such as BSD or MIT) that allows for free use and distribution.
 
 ## 
+
